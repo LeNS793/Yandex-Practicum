@@ -15,8 +15,8 @@
 
 Подготовлены дашборд и презентация результатов исследования для Заказчика:
 
-[ - ссылка на дашборд (необходимо использовать вместе с VPN);](https://public.tableau.com/views/Finalprojectdashboard_16884892579270/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
-[ - ссылка на презентацию.](https://github.com/LeNS793/Yandex-Practicum/blob/main/4%20bank%20customer%20segmentation/presentation%20v1.pdf)
+- [ссылка на дашборд (необходимо использовать вместе с VPN);](https://public.tableau.com/views/Finalprojectdashboard_16884892579270/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
+- [ссылка на презентацию.](https://github.com/LeNS793/Yandex-Practicum/blob/main/4%20bank%20customer%20segmentation/presentation%20v1.pdf)
 
 
 **Направления деятельности:**
